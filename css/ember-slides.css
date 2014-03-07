@@ -1,0 +1,33 @@
+body {
+	margin: 2em;
+}
+
+h1,h2,h3,h4,h5,h6,
+p,blockquote {
+	text-align: center;
+}
+
+button.run {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.code-runner {
+	margin-bottom: 1em;
+}
+
+.code-runner pre {
+	margin-bottom: 0;
+	border-bottom-left-radius: 0;
+}
+
+.rendered-block {
+	padding: 1em;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	border-bottom-left-radius: 0;
+}
+
+ul,blockquote {
+	margin-left: 4em;
+	margin-right: 4em;
